@@ -1,0 +1,4 @@
+endpoint:
+  endpoint_url:
+    # client: true
+    default: 'http://connecpath.tk'
