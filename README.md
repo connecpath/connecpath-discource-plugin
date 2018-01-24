@@ -1,1 +1,1 @@
-# discourse-plugin-test
+# connecpath-discourse-plugin
