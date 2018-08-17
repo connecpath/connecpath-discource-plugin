@@ -35,4 +35,6 @@ ConnecpathHelper::Engine.routes.draw do
       get 'device_token_list'
     end
   end
+  
+  get "latest_by_categories" => "list#latest_by_categories", as: "latest_by_categories"
 end
